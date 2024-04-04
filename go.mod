@@ -1,4 +1,4 @@
-module github.com/anatol/vmtest
+module github.com/frelon/vmtest
 
 go 1.20
 
